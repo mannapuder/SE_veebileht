@@ -30,18 +30,10 @@ h1 {
   padding-top: 135px;
   padding-left: 40px;
 }
-.social-media-buttons-div {
-  display: flex;
-  justify-content: space-evenly;
-}
 .contact-info-div {
   font-size: 30px;
   padding-top: 300px;
   text-align: center;
-}
-.social-media-img {
-  width: 85px;
-  height: 85px;
 }
 #map {
   height: 250px;
