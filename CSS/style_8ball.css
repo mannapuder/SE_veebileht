@@ -1,0 +1,16 @@
+@import url("style_main.css");
+@keyframes appearFancily {
+    from {
+        opacity: 0;
+        transform: translate(0px, 20px)
+    }
+    to {
+        opacity: 100
+    }
+}
+
+#vastus {
+    animation-name: appearFancily;
+    animation-duration: 1000ms;
+    animation-timing-function: ease-out;
+}
