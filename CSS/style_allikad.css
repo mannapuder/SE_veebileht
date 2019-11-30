@@ -1,1 +1,5 @@
 @import url("style_main.css");
+li {
+    padding: 15px;
+    overflow: hidden;
+}

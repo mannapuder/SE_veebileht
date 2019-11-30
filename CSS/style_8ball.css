@@ -9,8 +9,78 @@
     }
 }
 
+#wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+#questions_wrapper {
+    background-color: white;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 30px;
+}
+
 #vastus {
     animation-name: appearFancily;
     animation-duration: 1000ms;
     animation-timing-function: ease-out;
+    background-color: skyblue;
+    color: whitesmoke;
+    font-size: 50px;
+    padding: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.tekst {
+    text-align: center;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+input[type=text],
+select {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 30px;
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+input[type=submit] {
+    width: 300px;
+    background-color: red;
+    color: white;
+    padding: 14px 20px;
+    font-family: Verdana;
+    font-size: 30px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type=submit]:hover {
+    background-color: maroon;
 }
