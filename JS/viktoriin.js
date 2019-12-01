@@ -90,8 +90,7 @@
                 c: "Porgandipirukas"
             },
             correctAnswer: "b"
-        }
-        {
+        }, {
             question: "Mis on nende muttide nimed, kelle suvemaja asub Jaapanis?",
             answers: {
                 a: "Marc ja Carl",
@@ -99,8 +98,7 @@
                 c: "John ja James",
             },
             correctAnswer: "c"
-        }
-        {
+        }, {
             question: "Mis oli Alberti ainuke sõber enne Lotte ja Brunoga sõbrunemist?",
             answers: {
                 a: "Roheline kurk",
@@ -108,8 +106,7 @@
                 c: "Punane õun",
             },
             correctAnswer: "a"
-        }
-        {
+        }, {
             question: "Kes üritas leiutiste võistlusel tellitest saia teha?",
             answers: {
                 a: "Väino",
@@ -117,8 +114,7 @@
                 c: "Adalbert",
             },
             correctAnswer: "b"
-        }
-        {
+        }, {
             question: "Mille leiutas Lotte vanavanaisa vend?",
             answers: {
                 a: "Pudru",
@@ -126,8 +122,7 @@
                 c: "Martsipani",
             },
             correctAnswer: "c"
-        }
-        {
+        }, {
             question: "Millist nimetatud taimedest polnud selles raamatus, mille vahelt Lotte ja Bruno leidsid Sususmu?",
             answers: {
                 a: "Para Discocactus",
@@ -135,8 +130,7 @@
                 c: "Cactae Lupi",
             },
             correctAnswer: "b"
-        }
-        {
+        }, {
             question: "Kelle abi kasutab Adalbert, et leiutised tööle saada ilma reaalse tehnikata?",
             answers: {
                 a: "Sohvi",
@@ -144,9 +138,8 @@
                 c: "Alberti",
             },
             correctAnswer: "a"
-        }
-        {
-            question: "Mida oskas teha robot, mille ideed Adalbert Oskarilt vastastada tahtis?",
+        }, {
+            question: "Mida oskas teha robot, mille ideed Adalbert Oskarilt varastada tahtis?",
             answers: {
                 a: "Ringe joonistada",
                 b: "Sokke triikida",
