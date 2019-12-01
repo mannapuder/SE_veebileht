@@ -12,7 +12,7 @@ Meie rühma kuuluvad Anna Talas, Kadi Sammul ja Carmen Akkermann.
 
 * Milline on tiimisisene tööjaotus?
 
-Tiimitöö sujus hästi. Messengeris arutasime omavahel nii ideid (alguses brainstorm ja siis teostatavate ideede selekteerimine) kui teostust, kui kellelgi midagi ei töötanud või oli muud nõu vaja. 
+Varasem kokkupuude (s.t enne seminare) HTMLi ja CSSiga oli ainult Annal, ta tundus ennast selles teemas kõige kindlamalt ja sai aidata ka andis nõu ka Kadile ja Carmenile, Anna panus oli kõige suurem. Tiimitöö sujus hästi, kõik tiimiliikmed said tegeleda nii CSSi kui HTMLiga. Messengeris arutasime omavahel nii ideid (alguses brainstorm ja siis teostatavate ideede selekteerimine) kui teostust, kui kellelgi midagi ei töötanud või oli muud nõu vaja. 
 
 * Millised raskused esinesid? Mida õppisite?
 
