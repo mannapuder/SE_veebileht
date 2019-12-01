@@ -65,32 +65,94 @@
     const resultsContainer = document.getElementById("results");
     const submitButton = document.getElementById("submit");
     const myQuestions = [{
-            question: "Who is the strongest?",
+            question: "Kus elab Lotte?",
             answers: {
-                a: "Superman",
-                b: "The Terminator",
-                c: "Waluigi, obviously"
+                a: "Lõunamaal",
+                b: "Leiutajatekülas",
+                c: "Kuu peal"
             },
-            correctAnswer: "c"
+            correctAnswer: "b"
         },
         {
-            question: "What is the best site ever created?",
+            question: "Kes on Lotte parim sõber?",
             answers: {
-                a: "SitePoint",
-                b: "Simple Steps Code",
-                c: "Trick question; they're both the best"
+                a: "Bruno",
+                b: "Albert",
+                c: "Susumu"
             },
-            correctAnswer: "c"
+            correctAnswer: "a"
         },
         {
-            question: "Where is Waldo really?",
+            question: "Mis toitu oskab Lotte ema Anna eriti hästi teha?",
             answers: {
-                a: "Antarctica",
-                b: "Exploring the Pacific Ocean",
-                c: "Sitting in a tree",
-                d: "Minding his own business, so stop asking"
+                a: "Puder",
+                b: "Pannkoogid",
+                c: "Porgandipirukas"
             },
-            correctAnswer: "d"
+            correctAnswer: "b"
+        }
+        {
+            question: "Mis on nende muttide nimed, kelle suvemaja asub Jaapanis?",
+            answers: {
+                a: "Marc ja Carl",
+                b: "Peter ja Paul",
+                c: "John ja James",
+            },
+            correctAnswer: "c"
+        }
+        {
+            question: "Mis oli Alberti ainuke sõber enne Lotte ja Brunoga sõbrunemist?",
+            answers: {
+                a: "Roheline kurk",
+                b: "Oranž porgand",
+                c: "Punane õun",
+            },
+            correctAnswer: "a"
+        }
+        {
+            question: "Kes üritas leiutiste võistlusel tellitest saia teha?",
+            answers: {
+                a: "Väino",
+                b: "Jaak",
+                c: "Adalbert",
+            },
+            correctAnswer: "b"
+        }
+        {
+            question: "Mille leiutas Lotte vanavanaisa vend?",
+            answers: {
+                a: "Pudru",
+                b: "Pesumasina",
+                c: "Martsipani",
+            },
+            correctAnswer: "c"
+        }
+        {
+            question: "Millist nimetatud taimedest polnud selles raamatus, mille vahelt Lotte ja Bruno leidsid Sususmu?",
+            answers: {
+                a: "Para Discocactus",
+                b: "Preulo Parodia",
+                c: "Cactae Lupi",
+            },
+            correctAnswer: "b"
+        }
+        {
+            question: "Kelle abi kasutab Adalbert, et leiutised tööle saada ilma reaalse tehnikata?",
+            answers: {
+                a: "Sohvi",
+                b: "Lotte",
+                c: "Alberti",
+            },
+            correctAnswer: "a"
+        }
+        {
+            question: "Mida oskas teha robot, mille ideed Adalbert Oskarilt vastastada tahtis?",
+            answers: {
+                a: "Ringe joonistada",
+                b: "Sokke triikida",
+                c: "Muusikat järgi tantsida",
+            },
+            correctAnswer: "a"
         }
     ];
 
