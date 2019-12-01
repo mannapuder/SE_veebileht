@@ -1,1 +1,34 @@
 @import url("style_main.css");
+#wrapper {
+    width: auto;
+    overflow: hidden;
+}
+
+#tekst {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    overflow: auto;
+}
+
+#pildid {
+    padding: 20px;
+    overflow: hidden;
+    position: relative;
+}
+
+iframe {
+    display: block;
+    margin-right: auto;
+    margin-top: auto;
+    width: auto;
+    border: 0;
+}
+
+img {
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
