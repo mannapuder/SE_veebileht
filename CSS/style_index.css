@@ -2,11 +2,64 @@
 #wrapper {
     display: flex;
 }
-#lingid {
+.lingid {
     display: flex;
     justify-content: right;
     float: right;
-    width: 20%;
-    overflow: auto;
+    object-fit: contain;
+    margin-right: 25px;
     position: relative;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: gainsboro;
+    font-size: 20px;
+}
+.link_pilt {
+    display: flex;
+    justify-content: right;
+    float: right;
+    object-fit: contain;
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin-right: -50px;
+}
+.top-left {
+    display: flex;
+    justify-content: right;
+    float: right;
+    object-fit: contain;
+    position: absolute;
+    font-size: x-small;
+    top: 21px;
+    left: 21px;
+  }
+.pilt{
+    display: flex;
+    justify-content: left;
+    float: left;
+    width: 73%;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+    border: 10px solid gainsboro;
+    background: gainsboro;
+    border-radius: 10px;
+}
+.tekst2 {
+    display: flex;
+    justify-content: left;
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: gainsboro;
+    font-size: 20px;
+    padding: 10px;
+    width: auto;
+    font-family: Verdana;
+    font-size: 15px;
+    padding: 20px;
 }
