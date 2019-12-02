@@ -10,7 +10,7 @@ window.onload = () => {
         "Sa võidad homme nagunii. Sa oled ju parim leiutaja meie külas. - Lotte",
         "Isver, kui ebameeldiv! - James",
         "Ema palus öelda, et sa ei kugistaks. - Lotte",
-        "Ma olen lihtsalt leiutaja tütar. - Lotte",
+        "Ma olen lihtsalt leiutaja laps. - Lotte",
         "Saeme välku pooleks! - Adalbert"
 
     ];
